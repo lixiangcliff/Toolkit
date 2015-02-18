@@ -11,7 +11,7 @@ public class randomNaming {
 	 * 批量重命名文件名为随机字母数字组合
 	 */
 	public static void main(String[] args) {
-		String path = "C:/test";
+		String path = "E:/";
 		randomNaming rn = new randomNaming();
 		rn.run(path);
 	}
